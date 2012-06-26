@@ -26,8 +26,8 @@ CONFIG = {
   # AppEngine debug mode
   'debug': True,
   # These can either be a path (on this server), or an external URI
-  'auth_success_uri_desktop': '/',
-  'auth_success_uri_mobile': '/',
+  'auth_success_uri_desktop': 'http://eatthis.menshealth.com/content/success',
+  'auth_success_uri_mobile': 'http://www.menshealth.com/ETNT-mobile/success',
   'auth_denied_uri': '/',
   # Application Level Configuration
   # Feel free to add new config parameters here...
